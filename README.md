@@ -6,9 +6,9 @@
 
 - Objetivo Fundación: Desarrollar la educación integral en Chile 
 - Método Fundación: Experiencias transformadoras, intencionadas en los cuatro pilares del modelo de Fundación Mustakis: 
-    1. aprender haciendo. 
-    2. aprender a aprender. 
-    3. aprender colaborativamente. 
-    4. y aprender a ser uno mismo.
+  - 1. aprender haciendo.
+  - 2. aprender a aprender.
+  - 3. aprender colaborativamente.
+  - 4. y aprender a ser uno mismo.
 
 ## Fuentes de datos disponibles
