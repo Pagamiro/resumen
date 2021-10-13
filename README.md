@@ -16,19 +16,19 @@ su mejora.*
 ## Fuentes de datos disponibles
 
 **1. Ministerio de Educación:**  
-* [*¿Cómo gestionar las Redes Territoriales de Convivencia Escolar?*](https://convivenciaescolar.mineduc.cl/wp-content/uploads/2019/05/03.-Como-gestionar-las-Redes-Territoriales-de-C.E.pdf)
+* Revisar texto [¿Cómo gestionar las Redes Territoriales de Convivencia Escolar?](https://convivenciaescolar.mineduc.cl/wp-content/uploads/2019/05/03.-Como-gestionar-las-Redes-Territoriales-de-C.E.pdf)
      
-* [*¿Cómo reflexionar y analizar las prácticas de Convivencia Escolar?*](https://convivenciaescolar.mineduc.cl/wp-content/uploads/2019/04/08.-Como-reflexionar-y-analizar-las-practicas-de-C.E.pdf)
+* Revisar texto [¿Cómo reflexionar y analizar las prácticas de Convivencia Escolar?](https://convivenciaescolar.mineduc.cl/wp-content/uploads/2019/04/08.-Como-reflexionar-y-analizar-las-practicas-de-C.E.pdf)
      
-* [*Política Nacional de Convivencia Escolar*](https://convivenciaescolar.mineduc.cl/wp-content/uploads/2019/04/Politica-Nacional-de-Convivencia-Escolar.pdf)
+* Resumir objetivos [Política Nacional de Convivencia Escolar](https://convivenciaescolar.mineduc.cl/wp-content/uploads/2019/04/Politica-Nacional-de-Convivencia-Escolar.pdf)
      
-* [*4 Claves para el autocuidado docente*](https://www.mineduc.cl/wp-content/uploads/sites/19/2020/05/4claves_autocuidadodocente.pdf)
+* Identificar elementos [4 Claves para el autocuidado docente](https://www.mineduc.cl/wp-content/uploads/sites/19/2020/05/4claves_autocuidadodocente.pdf)
  
-* [*¿Cómo enselar a distancia manteniendo la cercanía?*](https://convivenciaescolar.mineduc.cl/wp-content/uploads/2021/02/MiniManual-educomlab-web.pdf)
+* Identificar enfoque [¿Cómo enseñar a distancia manteniendo la cercanía?](https://convivenciaescolar.mineduc.cl/wp-content/uploads/2021/02/MiniManual-educomlab-web.pdf)
      
-* [*Base de Cargos Docentes 2019*](https://centroestudios.mineduc.cl/wp-content/uploads/sites/100/2019/12/MINUTA-10_Docentes_FD.pdf) 
+* Caracterización [Base de Cargos Docentes 2019](https://centroestudios.mineduc.cl/wp-content/uploads/sites/100/2019/12/MINUTA-10_Docentes_FD.pdf) 
 
 **2. OECD:**
-* [*TALIS 2018*](https://www.oecd.org/education/talis/TALIS2018_CN_CHL_es.pdf) 
+* Datos Chile [TALIS 2018](https://www.oecd.org/education/talis/TALIS2018_CN_CHL_es.pdf) 
 
-* [*SURVEY OF SOCIAL AND EMOTIONAL SKILLS*](https://www.oecd-ilibrary.org/docserver/92a11084-en.pdf?expires=1634166995&id=id&accname=guest&checksum=EB83A071E1030C9D7D296592B093A13B)
+* Datos Macro [SURVEY OF SOCIAL AND EMOTIONAL SKILLS](https://www.oecd-ilibrary.org/docserver/92a11084-en.pdf?expires=1634166995&id=id&accname=guest&checksum=EB83A071E1030C9D7D296592B093A13B)
